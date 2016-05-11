@@ -6,3 +6,5 @@ A few weeks ago, I received a message via Etsy that consisted of just a bunch of
 After decoding the message, I composed a reply, encrypted it through the reverse process, and emailed it to the address provided in the message. A few days later, I got a response, again encrypted in the same fashion!
 
 Instead of manually decoding and encoding these messages, I decided to write a simple script to do it for me. This project also served as an introduction to JavaScript for me.
+
+![Example screenshot](example1.png)
